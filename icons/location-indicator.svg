@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="301" height="301" viewBox="0 0 301 301">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe0e37" stop-opacity="0.443"/>
+      <stop offset="0.376" stop-color="#fe0e37" stop-opacity="0.322"/>
+      <stop offset="0.711" stop-color="#fe0e37" stop-opacity="0.243"/>
+      <stop offset="1" stop-color="#fe0e37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_468" data-name="Group 468" transform="translate(-86.276 -232.276)">
+    <g id="Ellipse_21" data-name="Ellipse 21" transform="translate(86.276 232.276)" stroke="#fe0e37" stroke-width="1" fill="url(#radial-gradient)">
+      <circle cx="150.5" cy="150.5" r="150.5" stroke="none"/>
+      <circle cx="150.5" cy="150.5" r="150" fill="none"/>
+    </g>
+    <g id="Ellipse_18" data-name="Ellipse 18" transform="translate(178.276 324.276)" fill="none" stroke="#fe0e37" stroke-width="1" opacity="0.201">
+      <circle cx="58.5" cy="58.5" r="58.5" stroke="none"/>
+      <circle cx="58.5" cy="58.5" r="58" fill="none"/>
+    </g>
+    <g id="Ellipse_19" data-name="Ellipse 19" transform="translate(148.276 294.276)" fill="none" stroke="#fe0e37" stroke-width="1" opacity="0.405">
+      <circle cx="88.5" cy="88.5" r="88.5" stroke="none"/>
+      <circle cx="88.5" cy="88.5" r="88" fill="none"/>
+    </g>
+    <g id="Ellipse_20" data-name="Ellipse 20" transform="translate(115.276 261.276)" fill="none" stroke="#fe0e37" stroke-width="1" opacity="0.599">
+      <circle cx="121.5" cy="121.5" r="121.5" stroke="none"/>
+      <circle cx="121.5" cy="121.5" r="121" fill="none"/>
+    </g>
+    <g id="Group_507" data-name="Group 507" transform="translate(50.276 -1101.446)">
+      <path id="Path_104" data-name="Path 104" d="M186.813,1504.945C189.75,1502.5,200,1484.231,200,1477a13.5,13.5,0,0,0-27,0c0,5.144,5.117,16.518,9.193,23.076" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_105" data-name="Path 105" d="M200,1488.25a4.746,4.746,0,1,1-4.187-4.717" transform="translate(-8.75 -10)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
